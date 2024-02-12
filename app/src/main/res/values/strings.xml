@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Сократитель ссылок</string>
+    <string name="add_link_btn">Добавить</string>
+    <string name="del_link_btn">Удалить</string>
+    <string name="link_hint">полная ссылка</string>
+    <string name="short_link_hint">сокращенная ссылка</string>
+</resources>
